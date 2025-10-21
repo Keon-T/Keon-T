@@ -1,4 +1,4 @@
-<h1>Hi, I'm Keon, an <a href="https://linkedin.com/in/Keon-leeThompson">IT Professional</a>☺</h1>
+<h1>Hi, I'm Keon, an <a href="https://linkedin.com/in/keon-lee-thompson-27aa39387">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
