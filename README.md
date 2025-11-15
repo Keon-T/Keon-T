@@ -13,7 +13,6 @@ Microsoft azure
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keon-T/ticket-lifecycle)
 
 
- <h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 
 
