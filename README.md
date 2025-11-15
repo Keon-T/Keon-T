@@ -11,8 +11,9 @@
     
 
 Microsoft azure
- - [Grouping Policy and Managing accounts](https://github.com/keon-T/azure-network-protocols)
+ -
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Keon-T/configure-ad)
+    - [Grouping Policy and Managing accounts](https://github.com/keon-T/azure-network-protocols)
 
 
 
