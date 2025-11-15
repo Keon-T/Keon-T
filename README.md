@@ -3,14 +3,16 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-Microsoft azure
- - [Grouping Policy and Managing accounts](https://github.com/keon-T/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Keon-T/configure-ad)
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Keon-T/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Keon-T/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keon-T/ticket-lifecycle)
+ 
+    
+
+Microsoft azure
+ - [Grouping Policy and Managing accounts](https://github.com/keon-T/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Keon-T/configure-ad)
 
 
 
